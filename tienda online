@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primer commit de mi tienda online"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git
+git push -u origin main
